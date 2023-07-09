@@ -1,0 +1,8 @@
+D:\Ain-swe\proj2\SimpleSQLProj-1\SimpleSQLProj-1\bin\Debug\SimpleSQLProj-1.exe.config
+D:\Ain-swe\proj2\SimpleSQLProj-1\SimpleSQLProj-1\bin\Debug\SimpleSQLProj-1.exe
+D:\Ain-swe\proj2\SimpleSQLProj-1\SimpleSQLProj-1\bin\Debug\SimpleSQLProj-1.pdb
+D:\Ain-swe\proj2\SimpleSQLProj-1\SimpleSQLProj-1\bin\Debug\System.Data.Common.dll
+D:\Ain-swe\proj2\SimpleSQLProj-1\SimpleSQLProj-1\bin\Debug\System.Data.SqlClient.dll
+D:\Ain-swe\proj2\SimpleSQLProj-1\SimpleSQLProj-1\obj\Debug\SimpleSQLProj-1.csprojResolveAssemblyReference.cache
+D:\Ain-swe\proj2\SimpleSQLProj-1\SimpleSQLProj-1\obj\Debug\SimpleSQLProj-1.exe
+D:\Ain-swe\proj2\SimpleSQLProj-1\SimpleSQLProj-1\obj\Debug\SimpleSQLProj-1.pdb
